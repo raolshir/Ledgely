@@ -9,6 +9,11 @@ import email from "@/assets/icons/email.png";
 import eyecross from "@/assets/icons/eyecross.png";
 import google from "@/assets/icons/google.png";
 import home from "@/assets/icons/home.png";
+import icon_home from "@/assets/icons/icon-home.png";
+import icon_profile from "@/assets/icons/icon-profile.png";
+import icon_search from "@/assets/icons/icon-search.png";
+import icon_stat from "@/assets/icons/icon-stat.png";
+import icon_storage from "@/assets/icons/icon-storage.png";
 import list from "@/assets/icons/list.png";
 import lock from "@/assets/icons/lock.png";
 import map from "@/assets/icons/map.png";
@@ -31,10 +36,10 @@ import onboarding1 from "@/assets/images/onboarding1.png";
 import onboarding2 from "@/assets/images/onboarding2.png";
 import onboarding3 from "@/assets/images/onboarding3.png";
 import signUpCar from "@/assets/images/signup-car.png";
+import signupLogo from "@/assets/images/signupLogo.png";
 import slide_1 from "@/assets/images/slide_1.jpg";
 import slide_2 from "@/assets/images/slide_2.jpg";
 import slide_3 from "@/assets/images/slide_3.jpg";
-import signupLogo from "@/assets/images/signupLogo.png";
 
 export const images = {
   onboarding1,
@@ -77,6 +82,11 @@ export const icons = {
   star,
   target,
   to,
+  icon_home,
+  icon_profile,
+  icon_search,
+  icon_stat,
+  icon_storage,
 };
 
 export const onboarding = [
